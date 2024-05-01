@@ -1,0 +1,92 @@
+{
+  "usuarios": [
+    {
+      "usr_id": "1",
+      "usr_nombres": "José Antonio",
+      "usr_apellidos": "Rodríguez Barceló",
+      "usr_correo": "rbsistemas@hotmail.com",
+      "usr_telefono": "",
+      "usr_activo": "1",
+      "usr_avatar": "https://api.shuttleexpressmexico.com.mx/imagenes/b4500d07-ed98-4221-80ef-afb8e56d3319.jpeg",
+      "login_times": "10",
+      "last_login": "2020-04-30"
+    },
+    {
+      "usr_id": "2",
+      "usr_nombres": "Juan",
+      "usr_apellidos": "Canul Jiménez",
+      "usr_correo": "jcanulji@gmail.com",
+      "usr_telefono": "",
+      "usr_activo": "1",
+      "usr_avatar": "https://api.shuttleexpressmexico.com.mx/imagenes/7b910034-8535-47e7-b2dd-f44b90c266f4.jpeg",
+      "login_times": "10",
+      "last_login": "2020-04-30"
+    },
+    {
+      "usr_id": "3",
+      "usr_nombres": "José Antonio",
+      "usr_apellidos": "Rodríguez Barceló",
+      "usr_correo": "rbsistemas@gmail.com",
+      "usr_telefono": "9999002552",
+      "usr_activo": "1",
+      "usr_avatar": "https://randomuser.me/api/portraits/men/29.jpg",
+      "login_times": "10",
+      "last_login": "2020-04-30"
+    },
+    {
+      "usr_id": "4",
+      "usr_nombres": "test",
+      "usr_apellidos": "test",
+      "usr_correo": "test@test.com",
+      "usr_telefono": "99999999",
+      "usr_activo": "1",
+      "usr_avatar": "https://randomuser.me/api/portraits/women/19.jpg",
+      "login_times": "10",
+      "last_login": "2020-04-30"
+    },
+    {
+      "usr_id": "5",
+      "usr_nombres": "Mariana",
+      "usr_apellidos": "Elizondo",
+      "usr_correo": "mariana@hotmail.com",
+      "usr_telefono": "1236547890",
+      "usr_activo": "1",
+      "usr_avatar": "https://randomuser.me/api/portraits/women/90.jpg",
+      "login_times": "10",
+      "last_login": "2020-04-30"
+    },
+    {
+      "usr_id": "6",
+      "usr_nombres": "Cristian",
+      "usr_apellidos": "Lopez",
+      "usr_correo": "cris@hotmail.com",
+      "usr_telefono": "9999002553",
+      "usr_activo": "1",
+      "usr_avatar": "https://randomuser.me/api/portraits/women/25.jpg",
+      "login_times": "10",
+      "last_login": "2020-04-30"
+    },
+    {
+      "usr_id": "9",
+      "usr_nombres": "Omar",
+      "usr_apellidos": "Quijano Carballo",
+      "usr_correo": "iscquijano@outlook.com",
+      "usr_telefono": "",
+      "usr_activo": "1",
+      "usr_avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+      "login_times": "10",
+      "last_login": "2020-04-30"
+    },
+    {
+      "usr_id": "10",
+      "usr_nombres": "Daniel",
+      "usr_apellidos": "Vega",
+      "usr_correo": "advegav@gmail.com",
+      "usr_telefono": "",
+      "usr_activo": "1",
+      "usr_avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+      "login_times": "10",
+      "last_login": "2020-04-30"
+    }
+  ]
+}
